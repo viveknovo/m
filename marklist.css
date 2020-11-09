@@ -1,0 +1,10 @@
+body{
+    width: 70%;
+    margin: auto;
+}
+h1,td{
+    text-align: center;
+}
+th{
+    background-color: lightblue;
+}
